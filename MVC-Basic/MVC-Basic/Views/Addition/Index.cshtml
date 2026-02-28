@@ -1,0 +1,19 @@
+﻿@using (Html.BeginForm())
+{
+    <p>
+        Enter Num1: @Html.TextBox("num1")
+    </p><br />
+    <p>
+        Enter Num2: @Html.TextBox("num2")
+    </p>
+    <br />
+    <input type="submit" />
+
+
+}
+
+@if(ViewBag.Result != null)
+{
+    <h4>Sum of Num1 and Num2: @ViewBag.Result</h4>
+    
+}

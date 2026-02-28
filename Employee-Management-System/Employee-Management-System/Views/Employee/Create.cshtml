@@ -1,0 +1,47 @@
+﻿@model Employee_Management_System.Models.Employee
+
+@{
+    ViewData["Title"] = "Create Employee";
+}
+
+<h2>Create Employee</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Name: </label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Adhaar No: </label>
+        <input asp-for="Adhaar_No" />
+        <span asp-validation-for="Adhaar_No" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>DOB: </label>
+        <input asp-for="DOB" type="date"/>
+        <span asp-validation-for="DOB" style="color:red"></span>
+    </div>
+
+    <div>
+        <label>Salary: </label>
+        <input asp-for="Salary" />
+        <span asp-validation-for="Salary" style="color:red"></span>
+    </div>
+
+    <button type="submit">Submit</button>
+
+</form>
+
+@if(ViewBag.Message != null)
+{
+    <h2 style="color:green">@ViewBag.Message</h2>
+}
+
+@* @section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+} *@

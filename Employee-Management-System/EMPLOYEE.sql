@@ -1,0 +1,13 @@
+Create Database ADO_MVC;
+
+use ADO_MVC;
+
+CREATE TABLE Employee(
+	ID INT PRIMARY KEY IDENTITY(1,1),
+	NAME NVARCHAR(50),
+	ADHAAR_NO NVARCHAR(12),
+	DOB DATE,
+	SALARY DECIMAL(10,2)
+);
+
+Select * from Employee;
