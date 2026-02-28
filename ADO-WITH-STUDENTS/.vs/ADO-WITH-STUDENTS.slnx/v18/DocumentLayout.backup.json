@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Dot Net\\ADO.NET\\ADO-WITH-STUDENTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5708E4C-9BFE-4606-91A7-8940D1C9B7C3}|ADO-WITH-STUDENTS\\ADO-WITH-STUDENTS.csproj|d:\\study\\dot net\\ado.net\\ado-with-students\\ado-with-students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5708E4C-9BFE-4606-91A7-8940D1C9B7C3}|ADO-WITH-STUDENTS\\ADO-WITH-STUDENTS.csproj|solutionrelative:ado-with-students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\ADO.NET\\ADO-WITH-STUDENTS\\ADO-WITH-STUDENTS\\Program.cs",
+              "RelativeDocumentMoniker": "ADO-WITH-STUDENTS\\Program.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\ADO.NET\\ADO-WITH-STUDENTS\\ADO-WITH-STUDENTS\\Program.cs",
+              "RelativeToolTip": "ADO-WITH-STUDENTS\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:03:41.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

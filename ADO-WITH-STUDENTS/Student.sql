@@ -1,0 +1,9 @@
+Use Top_Brains;
+
+CREATE TABLE STUDENT(
+	ID INT PRIMARY KEY,
+	NAME NVARCHAR(50),
+	MARKS INT
+);
+
+select * from Student;
