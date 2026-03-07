@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\repositories\\sqlstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\repositories\\sqlstudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\repositories\\liststudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\repositories\\liststudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|d:\\study\\dot net\\design pattern\\repository pattern\\repositoriespattern\\repositoriespattern\\migrations\\20260307051259_sqlrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2347B2C-4238-CECE-5022-620A42159B0E}|RepositoriesPattern\\RepositoriesPattern.csproj|solutionrelative:repositoriespattern\\migrations\\20260307051259_sqlrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLStudentRepository.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Repositories\\SQLStudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Repositories\\SQLStudentRepository.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Repositories\\SQLStudentRepository.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Repositories\\SQLStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:04:27.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:56:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:34:01.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListStudentRepository.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Repositories\\ListStudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Repositories\\ListStudentRepository.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Repositories\\ListStudentRepository.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Repositories\\ListStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:27:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\appsettings.json",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\appsettings.json",
+              "RelativeToolTip": "RepositoriesPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T05:06:17.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Program.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Program.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:31:07.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:25:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Models\\Student.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Models\\Student.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:23:50.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260307051259_SqlRepo.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Migrations\\20260307051259_SqlRepo.cs",
+              "RelativeDocumentMoniker": "RepositoriesPattern\\Migrations\\20260307051259_SqlRepo.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Design Pattern\\Repository Pattern\\RepositoriesPattern\\RepositoriesPattern\\Migrations\\20260307051259_SqlRepo.cs",
+              "RelativeToolTip": "RepositoriesPattern\\Migrations\\20260307051259_SqlRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:13:00.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
