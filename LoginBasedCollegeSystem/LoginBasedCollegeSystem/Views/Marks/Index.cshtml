@@ -1,0 +1,38 @@
+﻿@model Student
+
+@{
+    ViewData["Title"] = "My Marks";
+}
+
+<h2>Student Details</h2>
+
+<p><b>Name:</b> @Model.Name</p>
+<p><b>Course:</b> @Model.Course</p>
+
+<hr />
+
+<h3>Semester Marks</h3>
+
+<table border="1" class="table">
+    <thead>
+        <tr>
+            <th>Semester</th>
+            <th>Subject</th>
+            <th>Marks</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var mark in Model.SemesterMarks)
+        {
+            <tr>
+                <td>@mark.SemesterNumber</td>
+                <td>@mark.Subject</td>
+                <td>@mark.Marks</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

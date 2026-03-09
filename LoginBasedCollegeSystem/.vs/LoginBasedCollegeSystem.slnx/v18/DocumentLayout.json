@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Migrations\\20260309102228_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginBasedCollegeSystem\\Migrations\\20260309102228_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Migrations\\20260309102009_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginBasedCollegeSystem\\Migrations\\20260309102009_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\views\\marks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\views\\marks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\controllers\\markscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\models\\semestermark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\models\\semestermark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|d:\\study\\dot net\\mvc code first approach\\loginbasedcollegesystem\\loginbasedcollegesystem\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42220B89-0FFD-4444-AB96-A333D4E9623C}|LoginBasedCollegeSystem\\LoginBasedCollegeSystem.csproj|solutionrelative:loginbasedcollegesystem\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260309102228_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Migrations\\20260309102228_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Migrations\\20260309102228_InitialCreate.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Migrations\\20260309102228_InitialCreate.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Migrations\\20260309102228_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:22:28.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260309102009_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Migrations\\20260309102009_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Migrations\\20260309102009_InitialCreate.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Migrations\\20260309102009_InitialCreate.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Migrations\\20260309102009_InitialCreate.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:20:09.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:06:51.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Views\\Marks\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Views\\Marks\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Views\\Marks\\Index.cshtml",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Views\\Marks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:06:25.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollegeDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Data\\CollegeDbContext.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Data\\CollegeDbContext.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Data\\CollegeDbContext.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Data\\CollegeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:50:42.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:57:49.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Program.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Program.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:02:14.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\appsettings.json",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\appsettings.json",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T10:00:05.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SemesterMark.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Models\\SemesterMark.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Models\\SemesterMark.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Models\\SemesterMark.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Models\\SemesterMark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:49:20.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:54:35.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Models\\Student.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Models\\Student.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:48:55.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:51:57.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarksController.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Controllers\\MarksController.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Controllers\\MarksController.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Controllers\\MarksController.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Controllers\\MarksController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:58:04.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:52:28.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\Services\\IStudentService.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:53:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "LoginBasedCollegeSystem\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\MVC Code First Approach\\LoginBasedCollegeSystem\\LoginBasedCollegeSystem\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "LoginBasedCollegeSystem\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:57:08.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
