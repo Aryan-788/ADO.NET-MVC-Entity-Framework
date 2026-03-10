@@ -1,0 +1,14 @@
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\bin\Debug\net10.0\ConsoleAppForAPIcommunication.exe
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\bin\Debug\net10.0\ConsoleAppForAPIcommunication.deps.json
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\bin\Debug\net10.0\ConsoleAppForAPIcommunication.runtimeconfig.json
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\bin\Debug\net10.0\ConsoleAppForAPIcommunication.dll
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\bin\Debug\net10.0\ConsoleAppForAPIcommunication.pdb
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ConsoleAppForAPIcommunication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ConsoleAppForAPIcommunication.AssemblyInfoInputs.cache
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ConsoleAppForAPIcommunication.AssemblyInfo.cs
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ConsoleAppForAPIcommunication.csproj.CoreCompileInputs.cache
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ConsoleAppForAPIcommunication.dll
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\refint\ConsoleAppForAPIcommunication.dll
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ConsoleAppForAPIcommunication.pdb
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ConsoleAppForAPIcommunication.genruntimeconfig.cache
+D:\Study\Dot Net\Web API\ConsoleAppForAPIcommunication\ConsoleAppForAPIcommunication\obj\Debug\net10.0\ref\ConsoleAppForAPIcommunication.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "av0d6xYqO/o=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\Dot Net\\Web API\\SumOfEvenNumbers\\SumOfEvenNumbers\\SumOfEvenNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aryan Narayan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Aryan Narayan\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

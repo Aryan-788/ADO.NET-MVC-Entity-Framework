@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|d:\\study\\dot net\\web api\\webapief_databasefirstapproach\\webapief_databasefirstapproach\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|solutionrelative:webapief_databasefirstapproach\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|d:\\study\\dot net\\web api\\webapief_databasefirstapproach\\webapief_databasefirstapproach\\models\\databasefirstapproachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|solutionrelative:webapief_databasefirstapproach\\models\\databasefirstapproachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|d:\\study\\dot net\\web api\\webapief_databasefirstapproach\\webapief_databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|solutionrelative:webapief_databasefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|d:\\study\\dot net\\web api\\webapief_databasefirstapproach\\webapief_databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|solutionrelative:webapief_databasefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|d:\\study\\dot net\\web api\\webapief_databasefirstapproach\\webapief_databasefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA6BA30-CF60-40F3-B4FE-88C109EB0DF0}|WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach.csproj|solutionrelative:webapief_databasefirstapproach\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiEF_DatabaseFirstApproach\\appsettings.json",
+              "ToolTip": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\appsettings.json",
+              "RelativeToolTip": "WebApiEF_DatabaseFirstApproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T10:56:18.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApiEF_DatabaseFirstApproach\\Models\\Student.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Models\\Student.cs",
+              "RelativeToolTip": "WebApiEF_DatabaseFirstApproach\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T10:48:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiEF_DatabaseFirstApproach\\Program.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Program.cs",
+              "RelativeToolTip": "WebApiEF_DatabaseFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T10:42:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApiEF_DatabaseFirstApproach\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApiEF_DatabaseFirstApproach\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T10:37:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseFirstApproachContext.cs",
+              "DocumentMoniker": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Models\\DatabaseFirstApproachContext.cs",
+              "RelativeDocumentMoniker": "WebApiEF_DatabaseFirstApproach\\Models\\DatabaseFirstApproachContext.cs",
+              "ToolTip": "D:\\Study\\Dot Net\\Web API\\WebApiEF_DatabaseFirstApproach\\WebApiEF_DatabaseFirstApproach\\Models\\DatabaseFirstApproachContext.cs",
+              "RelativeToolTip": "WebApiEF_DatabaseFirstApproach\\Models\\DatabaseFirstApproachContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T10:28:16.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
