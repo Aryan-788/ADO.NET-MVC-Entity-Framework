@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\Dot Net\\FluentApi\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj": {}
+    "D:\\Study\\Dot Net\\ADO.NET and MVC Github\\ASP.NET Core Web API\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj": {}
   },
   "projects": {
-    "D:\\Study\\Dot Net\\FluentApi\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj": {
+    "D:\\Study\\Dot Net\\ADO.NET and MVC Github\\ASP.NET Core Web API\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\Dot Net\\FluentApi\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj",
+        "projectUniqueName": "D:\\Study\\Dot Net\\ADO.NET and MVC Github\\ASP.NET Core Web API\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj",
         "projectName": "SimpleWebApi",
-        "projectPath": "D:\\Study\\Dot Net\\FluentApi\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj",
+        "projectPath": "D:\\Study\\Dot Net\\ADO.NET and MVC Github\\ASP.NET Core Web API\\SimpleWebApi\\SimpleWebApi\\SimpleWebApi.csproj",
         "packagesPath": "C:\\Users\\Aryan Narayan\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\Dot Net\\FluentApi\\SimpleWebApi\\SimpleWebApi\\obj\\",
+        "outputPath": "D:\\Study\\Dot Net\\ADO.NET and MVC Github\\ASP.NET Core Web API\\SimpleWebApi\\SimpleWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
