@@ -1,0 +1,6 @@
+@UMS_API_With_JWT_EF_CodeFirstApproach_HostAddress = http://localhost:5176
+
+GET {{UMS_API_With_JWT_EF_CodeFirstApproach_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
