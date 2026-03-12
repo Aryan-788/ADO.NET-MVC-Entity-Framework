@@ -1,0 +1,6 @@
+@TrimMiddlewareAPI_HostAddress = http://localhost:5171
+
+GET {{TrimMiddlewareAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
